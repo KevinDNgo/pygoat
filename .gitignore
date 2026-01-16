@@ -4,6 +4,10 @@
 .env/
 *.pyc
 
+# Node.js
+node_modules/
+package-lock.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
